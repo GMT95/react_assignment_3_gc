@@ -302,7 +302,7 @@ class App extends Component {
     return (
      <div>
      <h2 className="App mt-2">Employees Record</h2>
-     {!user ?
+     {user ?
      <div> 
      <button className="btn btn-dark offset-md-11 mb-4" onClick={_ => this.logout()}>Logout</button>    
       {addBtnValueCond ? this.showTable() : this.addEmployeeForm()}  
