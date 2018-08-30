@@ -36,7 +36,7 @@ return(
 
 * **this repo**
 * hosted [here](https://gmt95.github.io/react_assignment_3_gc/) 
-
+* id: admin@domain.com, password: admin for app
 
 ***
 
